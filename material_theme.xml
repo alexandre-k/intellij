@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="-5a47865:16b3f3e6f93:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>

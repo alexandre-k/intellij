@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/334543e7_spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/9b192256_xml.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/27c071c8_web-app_3_1.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/38fbf776_spring-beans-4.3.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/93b79a08_spring-tool-4.3.xsd" />
+  </component>
+</application>
